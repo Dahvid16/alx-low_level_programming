@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - A c program that prints
+ * main - main is a  c program that prints
  *
- * Return: Always 0
+ * Return: 0 when successful
  */
 
 int main(void)
