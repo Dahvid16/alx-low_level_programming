@@ -3,6 +3,7 @@
 /**
  * main - Program that prints the alphabet
  *
+ * Return: Always 0
  */
 
 int main(void)
